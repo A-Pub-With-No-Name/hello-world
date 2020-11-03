@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+My Name is Melvin and I'm working on learning Python!
